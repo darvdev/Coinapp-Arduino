@@ -1,0 +1,7 @@
+COINAPP FIRMWARE UPDATES
+Firmware version: 1.3.2.1
+[May 11, 2020]
+
+What's new on v1.3.2.1?
+ - Fix: Fail safe mode will ON even if there's a time.
+ - Added: Determine failed (unknown) coin read for Multi coin-slot type.
